@@ -1,3 +1,4 @@
+# write a code for sum of values
 sum=0
 for i in range (0, 15+1):
     sum = sum + i
